@@ -58,7 +58,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💡 Utilização
 
-A aplicação Food Explorer está disponível para uso [aqui](https://leafy-cheesecake-a225b2.netlify.app/). Se preferir executá-la localmente, siga as instruções abaixo:
+A aplicação Food Explorer está disponível para uso [aqui]([https://leafy-cheesecake-a225b2.netlify.app/](https://food-explorer-frontend-a225b2.netlify.app/)). Se preferir executá-la localmente, siga as instruções abaixo:
 
 1. Clone o projeto:
 
