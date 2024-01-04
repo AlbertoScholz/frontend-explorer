@@ -14,7 +14,7 @@ O Food Explorer é um projeto desenvolvido como desafio final do programa Explor
 
 ## 📁 Projeto
 
-O projeto Food Explorer consiste em duas partes: o front-end, responsável pela interface do usuário (disponível neste repositório), e o back-end, que gerencia a lógica e o armazenamento dos dados (disponível [aqui](https://github.com/AlbertoScholz/food-explorer-backend)).
+O projeto Food Explorer consiste em duas partes: o front-end, responsável pela interface do usuário (disponível neste repositório), e o back-end, que gerencia a lógica e o armazenamento dos dados (disponível [aqui](https://github.com/AlbertoScholz/food-explorer-backend).
 
 ## 📃 Páginas
 
