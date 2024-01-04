@@ -14,7 +14,7 @@ O Food Explorer é um projeto desenvolvido como desafio final do programa Explor
 
 ## 📁 Projeto
 
-O projeto Food Explorer consiste em duas partes: o front-end, responsável pela interface do usuário (disponível neste repositório), e o back-end, que gerencia a lógica e o armazenamento dos dados (disponível [aqui](https://github.com/AlbertoScholz/food-explorer-backend).
+O projeto Food Explorer consiste em duas partes: o front-end, responsável pela interface do usuário (disponível neste repositório), e o back-end, que gerencia a lógica e o armazenamento dos dados (disponível [aqui](https://github.com/AlbertoScholz/food-explorer-backend)).
 
 ## 📃 Páginas
 
@@ -58,7 +58,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💡 Utilização
 
-A aplicação Food Explorer está disponível para uso [aqui]([https://leafy-cheesecake-a225b2.netlify.app/](https://food-explorer-frontend-a225b2.netlify.app/)). Se preferir executá-la localmente, siga as instruções abaixo:
+A aplicação Food Explorer está disponível para uso [aqui](https://food-explorer-frontend-a225b2.netlify.app/). Se preferir executá-la localmente, siga as instruções abaixo:
 
 1. Clone o projeto:
 
@@ -98,6 +98,9 @@ O Food Explorer possui duas personas principais: o administrador e o usuário.
         Senha: user123
         Acesso restrito às funcionalidades da aplicação.
 
+🔗 Link de Deploy
+
+A aplicação Food Explorer está disponível aqui.
 📝 Licença
 
 Este projeto está sob a licença MIT.
